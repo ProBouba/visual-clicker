@@ -1,0 +1,10 @@
+{
+  "monitoring_speed": "high",
+  "custom_interval_ms": 500,
+  "hotkeys_enabled": true,
+  "hotkey_start_pause": "f9",
+  "hotkey_stop": "f10",
+  "hotkey_emergency_stop": "f12",
+  "last_profile": "default",
+  "window_geometry": ""
+}

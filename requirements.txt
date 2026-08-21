@@ -1,0 +1,7 @@
+PySide6>=6.7.0
+opencv-python>=4.9.0
+mss>=9.0.1
+pyautogui>=0.9.54
+numpy>=1.26.0
+Pillow>=10.2.0
+keyboard>=0.13.5
